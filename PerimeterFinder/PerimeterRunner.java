@@ -1,3 +1,10 @@
+/**
+ * Description of PerimeterRunner *
+ * 
+ * This program prints the perimeter of a shape whose coordinates are given in another file
+ *
+ **/
+
 import edu.duke.*;
 
 public class PerimeterRunner {
