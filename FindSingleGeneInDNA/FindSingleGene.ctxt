@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=FindSingleGene
+comment0.text=\r\n\ Description\ of\ FindSingleGene\ *\r\n\ \r\n\ FindSingleGene\ is\ a\ program\ to\ \:\r\n\ \r\n\ Check\ if\ the\ codons\ ATG\ and\ TAA\ are\ present\ in\ a\ gene\r\n\ Check\ if\ a\ gene\ is\ valid,\ i.e,\ a\ multiple\ of\ 3\r\n\ Print\ all\ genes\ obtained\ along\ with\ their\ description\r\n\ \r\n\r\n
+comment1.params=dna\ startCodon\ stopCodon
+comment1.target=java.lang.String\ findSimpleGene(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ testGene()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
