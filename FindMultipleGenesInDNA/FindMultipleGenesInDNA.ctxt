@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=FindMultipleGenesInDNA
+comment0.text=\r\n\ Description\ of\ FindMultipleGenesInDNA\ *\r\n\ postin\ od\ \r\n\ Return\ the\ Index\ of\ a\ given\ codon\ (or\ string),\ if\ present,\ in\ a\ gene\ (or\ another\ string)\r\n\ prints\ alll\ genes\ valid\r\n\ count\r\n\ \r\n
+comment1.params=dnastr\ startindex\ stopcodon
+comment1.target=int\ findstopcodon(java.lang.String,\ int,\ java.lang.String)
+comment2.params=dna\ startwhere
+comment2.target=java.lang.String\ findgene(java.lang.String,\ int)
+comment3.params=dna
+comment3.target=void\ printallgenes(java.lang.String)
+comment4.params=dna
+comment4.target=void\ teston(java.lang.String)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
