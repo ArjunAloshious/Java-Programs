@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=CGRatio
+comment0.text=\r\n\ Description\ *\ \r\n\r\n\ CG\ Ratio\ is\ a\ program\ to\ \:\r\n\r\n\ Find\ all\ valid\ genes\ in\ a\ DNA\ strand\ and\ display\ them,\r\n\ Find\ the\ number\ of\ 'C's\ and\ 'G's\ for\ each\ gene,\r\n\ Display\ the\ quotient\ after\ dividing\ number\ of\ 'C's\ to\ 'G's\r\n\ and\ Display\ total\ number\ of\ valid\ genes\ in\ the\ DNA\ strand.\r\n\r\n
+comment1.params=dna\ startwhere
+comment1.target=java.lang.String\ findgene(java.lang.String,\ int)
+comment2.params=dna
+comment2.target=void\ cgratio(java.lang.String)
+comment3.params=dna
+comment3.target=void\ printallgenes(java.lang.String)
+comment4.params=dna
+comment4.target=void\ teston(java.lang.String)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
