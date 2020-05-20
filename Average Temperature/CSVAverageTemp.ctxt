@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CSVAverageTemp
+comment1.params=parser
+comment1.target=double\ averageTemperatureInFile(org.apache.commons.csv.CSVParser)
+comment2.params=
+comment2.target=void\ Test()
+comment3.params=parser\ value
+comment3.target=double\ averageTemperatureWithHighHumidityInFile(org.apache.commons.csv.CSVParser,\ int)
+comment4.params=currRow\ sum
+comment4.target=double\ getsum(org.apache.commons.csv.CSVRecord,\ double)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
